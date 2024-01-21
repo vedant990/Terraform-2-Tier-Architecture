@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # Terraform 2-Tier Architecture
 
 [![Terraform](https://img.shields.io/badge/Terraform-0.15.0-blueviolet)](https://www.terraform.io/)
