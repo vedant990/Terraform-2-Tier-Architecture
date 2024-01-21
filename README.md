@@ -49,9 +49,7 @@ The directory structure of the project is organized as follows:
     terraform init
     ```
 
-3. **Adjust variables in `terraform.tfvars` as needed.**
-
-4. **Apply the Terraform configuration:**
+3. **Apply the Terraform configuration:**
 
     ```bash
     terraform apply
