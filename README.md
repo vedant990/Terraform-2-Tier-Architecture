@@ -39,7 +39,7 @@ The directory structure of the project is organized as follows:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/terraform-2-tier-architecture.git
+    [git clone [https://github.com/vedant990/Terraform-2-Tier-Architecture.git]
     cd terraform-2-tier-architecture
     ```
 
